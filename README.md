@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gouravpy
 - 👀 I’m interested in Both Frontend and Backend
-- 🌱 I’m currently learning Frontend like Javascript , React frontend stuff
+- 🌱 I’m currently learning Frontend related stuff 
 - 💞️ I’m looking to collaborate on new webProjects
 - 📫 How to reach gouravjoshi224@gmail.com
 
